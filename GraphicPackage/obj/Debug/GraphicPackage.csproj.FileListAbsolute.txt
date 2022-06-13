@@ -1,0 +1,12 @@
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\obj\Debug\GraphicPackage.csprojAssemblyReference.cache
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\obj\Debug\GraphicPackage.Properties.Resources.resources
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\obj\Debug\GraphicPackage.csproj.GenerateResource.cache
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\obj\Debug\GraphicPackage.csproj.CoreCompileInputs.cache
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\bin\Debug\GraphicPackage.exe.config
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\bin\Debug\GraphicPackage.exe
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\bin\Debug\GraphicPackage.pdb
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\obj\Debug\GraphicPackage.exe
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\obj\Debug\GraphicPackage.pdb
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\obj\Debug\GraphicPackage.GraphicPackage.resources
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\obj\Debug\GraphicPackage.ScaleShapeForm.resources
+C:\Users\Nikita\Desktop\Year3\Computer Graphics Programming\Assignment\GraphicPackage\GraphicPackage\obj\Debug\GraphicPackage.RotateShapeForm.resources
